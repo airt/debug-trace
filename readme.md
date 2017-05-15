@@ -66,9 +66,9 @@ type Log = (...xs: Array<{}>) => void
 
 MIT
 
-[build-badge]: https://img.shields.io/travis/airt/trace-t.svg
+[build-badge]: https://img.shields.io/travis/airt/trace-t/develop.svg
 [build-status]: https://travis-ci.org/airt/trace-t
-[coverage-badge]: https://img.shields.io/coveralls/airt/trace-t.svg
+[coverage-badge]: https://img.shields.io/coveralls/airt/trace-t/develop.svg
 [coverage-result]: https://coveralls.io/github/airt/trace-t
 [npm-badge]: https://img.shields.io/npm/v/trace-t.svg
 [npm-url]: https://www.npmjs.com/package/trace-t
